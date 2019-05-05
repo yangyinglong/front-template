@@ -22,5 +22,5 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 
 
 ```
-这是一个实验室预约系统
+这是前端模板，不能提交，只能修改
 ```
